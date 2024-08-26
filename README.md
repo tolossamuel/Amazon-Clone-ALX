@@ -6,7 +6,7 @@
 * [Samuel Tolossa](https://www.linkedin.com/in/samuel-tolossa-048938238/)
 * [Naol Ketema](https://www.linkedin.com/in/naol-ketema/)
 
-**[Video:](https://drive.google.com/file/d/1DbfMIYY2MWRf6SULtGO2cvmWjkcUex0Y/view?usp=sharing)**
+**[Video review:](https://drive.google.com/file/d/1DbfMIYY2MWRf6SULtGO2cvmWjkcUex0Y/view?usp=sharing)**
 
 ## Project Overview
 
