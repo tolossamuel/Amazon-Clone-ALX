@@ -1,5 +1,5 @@
 
-# Amazon Clone - Final Project for ALX Software Engineering Program
+# Amazon Clone - Final Project for ALX Software Engineering Program 
 
 **Collaborators:**
 
@@ -8,7 +8,7 @@
 
 **[Video review:](https://drive.google.com/file/d/1DbfMIYY2MWRf6SULtGO2cvmWjkcUex0Y/view?usp=sharing)**
 
-## Project Overview
+## Project Overview 
 
 This project is a fully functional Amazon Clone built as part of the final software engineering projects for the ALX Program. It showcases a comprehensive e-commerce platform with key features similar to the original Amazon website.
 
@@ -47,6 +47,6 @@ This project is a fully functional Amazon Clone built as part of the final softw
 
 ## Explore and Enjoy
 
-This project demonstrates our commitment to applying the skills learned during the ALX program. Feel free to explore, contribute, or provide feedback. If you find it helpful or inspiring, please give the repository a ⭐!
+This project demonstrates our commitment to applying the skills learned during the ALX program. Feel free to explore, contribute, or provide feedback. If you find it helpful or inspiring, please give the repository a ⭐! and join ALX 
 
 ---
